@@ -15,6 +15,7 @@
 "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzZjgyZjNmNmY4YmVlMWIwMDU1NTY2YiIsInVzZXJuYW1lIjoicXdlcnR5NTU1IiwiZXhwIjoxNjgyMzkzNDk5LCJpYXQiOjE2NzcyMDk0OTl9.3iVXi-1-aaIKYY--RJ0xAOswOVYT_B7fxmEBsgdr-Ls"
 }
 }
+
 Авторизовался
 {
 "user": {
